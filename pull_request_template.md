@@ -5,9 +5,9 @@
 
 <!--- Please provide link to the issue(s) here: -->
 
-## How Has This Been Tested?
+## Checklist?
 
-* [ ] Are any test cases executed for this chnage?
+* [ ] Are any test cases executed for this change?
 * [ ] pre-commit build completed sucessfully?
 * [ ] Design Docs updated (if needed)
 * [ ] Check box to remove source branch
